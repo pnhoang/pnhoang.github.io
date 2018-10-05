@@ -1,26 +1,50 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-05-04 14:05:35 +0200
-summary: "You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated."
-categories: jekyll update
+title:  "Sprachbegabt"
+date:   2018-10-05 23:30
+categories: deutsche
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. **beurteilen**: (v) judge
 
-Jekyll also offers powerful support for code snippets:
+    Die deutsche Grammatik ist sehr logisch. Ich kann das nicht *beurteilen*
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+2. **begabt**: talent, **unbegabt**: untalent.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+    Es gibt begabte und ungegabte Sprachlerner.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+3. **einprägen**: memorize
+
+    sich ein Wort notieren / einprägen / merken.
+
+4. **Die Tafel**: blackboard.
+
+    an die Tafel schreiben.
+
+5. **nachschlagen**: (v) look up
+
+    Wörte im Wörterbuch nachschlagen
+
+6. **durchfallen**: fail
+
+    Bei einer Prüfung durchfallen
+
+7. **bestehen**: pass
+
+    eine Prüfung bestehen / machen / ablegen
+
+8. **sprachbegabt**: begabt für das Erlernen vom Fremdspachen.
+
+    Wie sprachbegabt bist du wirklich?
+    Ich bin nicht sprachbegabt.
+
+9. **fließend**: fluently
+
+    eine Sprache fließend sprechen
+
+10. **beherrschen**: to have mastered / have a good command of
+
+    eine Sprache beherrschen
+
+
+
