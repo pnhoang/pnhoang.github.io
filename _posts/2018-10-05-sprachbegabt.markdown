@@ -11,7 +11,7 @@ categories: deutsche
 
 2. **begabt**: talent, **unbegabt**: untalent.
 
-    Es gibt begabte und ungegabte Sprachlerner.
+    Es gibt begabte und unbegabte Sprachlerner.
 
 3. **einprägen**: memorize
 
