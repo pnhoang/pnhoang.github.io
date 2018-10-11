@@ -5,7 +5,7 @@ date:   2018-10-07 20:55
 categories: deutsche
 ---
 
-[http://berlinleuchtet.com/presse/](Berlin leuchtet 2018 – Licht aktiviert)
+[Berlin leuchtet 2018 – Licht aktiviert](http://berlinleuchtet.com/presse/)
 
 1. **Die Pressemitteilung**: (f) Press Release
 

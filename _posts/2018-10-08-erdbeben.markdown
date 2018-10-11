@@ -5,7 +5,7 @@ date:   2018-10-08 23:00
 categories: deutsche
 ---
 
-[https://www.nachrichtenleicht.de/flut-welle-in-indonesien.2046.de.html?dram:article_id=429670](Flut-Welle in Indonesien)
+[Flut-Welle in Indonesien](https://www.nachrichtenleicht.de/flut-welle-in-indonesien.2046.de.html?dram:article_id=429670)
 
 1. **Die Flut-Welle**: (f) Tidal wave
 

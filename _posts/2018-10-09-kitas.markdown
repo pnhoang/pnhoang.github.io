@@ -5,7 +5,7 @@ date:   2018-10-09 20:00
 categories: deutsche
 ---
 
-[https://www.nachrichtenleicht.de/mehr-geld-fuer-kitas.2042.de.html?dram:article_id=428573](Mehr Geld für Kitas)
+[Mehr Geld für Kitas](https://www.nachrichtenleicht.de/mehr-geld-fuer-kitas.2042.de.html?dram:article_id=428573)
 
 1. **beschließen**: (transitiv verb) pass (a law)
 
@@ -32,7 +32,7 @@ categories: deutsche
     In vielen Kitas müssen die Eltern hohe Beiträge bezahlen.
 
 
-[https://www.nachrichtenleicht.de/strafe-gegen-china.2042.de.html?dram:article_id=428558](Strafe gegen China)
+[Strafe gegen China](https://www.nachrichtenleicht.de/strafe-gegen-china.2042.de.html?dram:article_id=428558)
 
 
 7. **Die Strafe / (pl) Strafen**: penalty
@@ -63,7 +63,7 @@ categories: deutsche
 
     Darum hat er Zölle beschlossen.
 
-[https://www.nachrichtenleicht.de/stabile-rente.2042.de.html?dram:article_id=426837](Stabile Rente)
+[Stabile Rente](https://www.nachrichtenleicht.de/stabile-rente.2042.de.html?dram:article_id=426837)
 
 14. **Die Rente/Renten**: (f) Pension
 
