@@ -139,3 +139,113 @@ categories: deutsche
 40. **Die Achse**: (f) axis, axle
 
     Zu den elf Abschitten, die auf jeden Fall für ältere Diesel gesperrt werden, gehören Achsen wie die Leipziger Straße, die Friedrichstraße und die Brückenstraße.
+
+41. **Aufheben machen um**: make a fuss about (vn: làm om sòm lên về chuyện gì đó)
+
+    Warum wird so ein Aufhebens um Dieselmotoren gemacht ?
+
+42. **Die Lungenfunktion**: (f) Lung function
+
+    Der Stoff kann die Lungenfunktion stören
+
+43. **Die Herz-Kreislauf-Erkrankung**: (f) cardiovascular disease
+
+    oder zu Herz-Kreislauf-Erkrankungen führen
+
+44. **Die Belastung**: (f) load, strain, pollution
+
+    Erlaubt ist im Jahresmittel eine Belastung von 40 Mikrogramm pro Kubikmeter Luft. In Berlin lag der Wert voriges Jahr bei 49 Mikrogramm.
+
+45. **stammen aus**: () originate from
+
+    Die Werte müssen also runter - und Autoabgase sind ein wichtiger Faktor. 75 Prozent des Stickstoffdioxids stammt aus dem Straßenverkehr, davon 88 Prozent aus Dieselfahrzeugen.
+
+46. **Der Antritt**: (m) beginning, debut, accession, start
+
+    Gibt es keinen anderen Weg, um die Luft zu verbessern ?
+
+    Seit ihrem Antritt habe der Senat systematisch Maßnahmen zur Luftverbesserung auf den Weg gebracht.
+
+47. **ausbauen**: (transitive v) extend
+
+    Radwege werden ausgebaut.
+
+48. **Das Tempo**: (n) speed
+
+    Tempo 30 fahren - drive at 30 km/h
+
+49. **bremsen**: (intransitive v) brake
+
+    bremsen und anfahren - brake and start
+
+50. **Der Schadstoff**: (m) pollutant, harmful chemical
+
+51. **ausstoßen**: (transitive v) emit (gas, smokes, fumes)
+
+    Autos dürfen auf fünf Hauptstraßen testweise nur Tempo 30 fahren - in der Hoffnung, dass sie seltener bremsen und anfahren und damit weniger Schadstoffe ausstoßen.
+
+52. **reichen**: (intransitive) be enough
+
+    Doch dem Gericht reichte all das nicht.
+
+53. **quantifizierbar**: () quantifiable
+
+54. **absehbar**: () forseeable
+
+    Die Wirkung des Zehn-Punkte-Programms sei nicht quantifizierbar und nicht absehbar, heißt es.
+
+55. **vorlegen**: (transitive v) present, publish, submit
+
+    Die Bundesregierung hat einen neuen Plan vorgelegt - was bringt der?
+
+56. **Der Nahverkehr**: (m) local traffic
+
+57. **erneuern**: (transitive v) renew, renovate, replace
+
+    Der Bund hat bereits ein Milliardenprogramm für bessere Luft in Städten auf den Weg gebracht - zum Beispiel, um den öffentlichen Nahverkehr attraktiver zu machen oder Busse zu erneuern.
+
+58. **Der Kaufanreiz**: (m) buying incentive
+
+59. **Die Hersteller**: (f) producer, manufacturer
+
+60. **vorsehen**: () provide, plan
+
+    Dazu kommt ein Paket, das Kaufanreize der Hersteller vorsieht,
+
+61. **umsteigen**: (intransitive v) change, switch
+
+    um von alten auf neuere und sauberere Diesel umzusteigen.
+
+62. **Daneben**: (adv) in addition, besides
+
+63. **Die Nachrüstung**: (f) equipment, upgrading
+
+64. **Der Umbau**: (m) reconstruction
+
+    Daneben soll es Hardware-Nachrüstungen geben, also Umbauten am Motor.
+
+65. **mitziehen**: (intransitive v) go along with
+
+    Die Hersteller ziehen aber nicht mit, weil sie alle Kosten übernehmen sollen
+
+66. **zielen**: (intransitive) aim
+
+    Zählen Autofahrer in Berlin überhaupt zu dem Paket dazu?
+
+    Das neue Programm zielt auf bisher 14 Städte, in denen die Luft am schlechtesten ist.
+
+67. **dazukommen**: (intransitive v) reach, arrive
+
+    Berlin könnte jetzt dazukommen,
+
+68. **anordnen**: (transitive v) arrange, order
+
+    weil das Gericht nun indirekt Fahrverbote angeordnet hat.
+
+69. **aufnehmen**: () admit, receive, take in
+
+    Ob Berlin in diesen Kreis aufgenommen wird,
+
+70. **lassen**: () leave
+
+    ließ die Bundesregierung am Dienstag zunächst noch offen
