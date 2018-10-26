@@ -1,31 +1,26 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
-import styled from "styled-components";
-import { SpaceBottomContainer } from "../styles";
-
-const Wrapper = styled.div`
-  margin: auto;
-  width: 50%;
-`
+import { BodyContainer, SpaceWrapper } from "../styles";
 
 const Template = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const title = data.markdownRemark.frontmatter.title;
   const html = data.markdownRemark.html;
   return (
-    <Wrapper>
+    <BodyContainer>
+      <Link to="/">Home</Link>
       <h1>{title}</h1>
 
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
-      <SpaceBottomContainer>
+      <SpaceWrapper>
         {next && <Link to={next.fields.slug}>Next</Link>}
-      </SpaceBottomContainer>
+      </SpaceWrapper>
 
       <div>
         {prev && <Link to={prev.fields.slug}>Prev</Link>}
       </div>
-    </Wrapper>
+    </BodyContainer>
   );
 };
 

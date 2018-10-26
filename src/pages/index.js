@@ -2,32 +2,34 @@ import React from "react";
 import { graphql, Link } from "gatsby";
 
 import Header from "../components/header";
-import { Container, SpaceBottomContainer } from "../styles";
+import { BodyContainer, Container, SpaceWrapper } from "../styles";
 
 const Layout = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
 
   return (
-    <div>
+    <BodyContainer>
       <Header />
       <Container>
         {edges.map(edge => {
           const { frontmatter } = edge.node;
           const { slug } = edge.node.fields;
           return (
-            <SpaceBottomContainer key={slug}>
+            <SpaceWrapper key={slug}>
               <Link to={slug}>{frontmatter.title}</Link>
-            </SpaceBottomContainer>
+            </SpaceWrapper>
           );
         })}
       </Container>
-    </div>
+    </BodyContainer>
   );
 };
 
 export const query = graphql`
   query HomepageQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }),
+    {
       edges {
         node {
           frontmatter {

@@ -56,7 +56,8 @@ exports.createPages = (props => {
             graphql(`
                 query {
                     allMarkdownRemark (
-                        sort: { order: ASC, fields: [frontmatter___date]}
+                        sort: { order: ASC, fields: [frontmatter___date]},
+                        filter: { frontmatter:{ tags: { in: ["deutsche"] } } }
                     ){
                         edges {
                             node {

@@ -6,6 +6,11 @@ export const Container = styled.div`
   align-items: center;
 `;
 
-export const SpaceBottomContainer = styled.div`
+export const SpaceWrapper = styled.div`
     margin-bottom: 1rem;
+`;
+
+export const BodyContainer = styled.div`
+  margin: auto;
+  width: 50%;
 `;
