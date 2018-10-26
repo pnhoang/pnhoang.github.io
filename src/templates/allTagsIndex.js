@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from 'gatsby';
 
-const AllTagsTemplate = ({ data, pageContext }) => {
+const AllTagsTemplate = ({ pageContext }) => {
     const { tags } = pageContext;
 
     return (
-        <div style={{fontFamily: 'avenir'}}>
+        <div>
             <div>
                 <ul>
                     {tags.map((tagName, index) => {

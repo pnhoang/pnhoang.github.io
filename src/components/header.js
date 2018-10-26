@@ -1,21 +1,27 @@
 import React from "react";
 import { StaticQuery, graphql } from "gatsby";
+import styled from "styled-components";
+import { Container } from "../styles";
 
-const TitleAndDescription = ({data}) => {
-    const { title, description } =  data.site.siteMetadata;
+const Heading = styled.h2`
+  margin-bottom: 0;
+`;
 
-    return (
-        <div style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            fontFamily: 'avenir'
-        }}>
-            <h2 style={{marginBottom: 0}}>{title}</h2>
-            <p style={{marginTop: 0, opacity: 0.5}}>{description}</p>
-        </div>
-    );
-}
+const SubHeader = styled.p`
+  margin-top: 0;
+  opacity: 0.5;
+`;
+
+const TitleAndDescription = ({ data }) => {
+  const { title, description } = data.site.siteMetadata;
+
+  return (
+    <Container>
+      <Heading>{title}</Heading>
+      <SubHeader>{description}</SubHeader>
+    </Container>
+  );
+};
 
 const Header = () => {
   return (

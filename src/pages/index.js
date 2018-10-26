@@ -1,6 +1,8 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
+
 import Header from "../components/header";
+import { Container, SpaceBottomContainer } from "../styles";
 
 const Layout = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
@@ -8,28 +10,17 @@ const Layout = ({ data }) => {
   return (
     <div>
       <Header />
-      <div
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          fontFamily: "avenir"
-        }}
-      >
+      <Container>
         {edges.map(edge => {
           const { frontmatter } = edge.node;
           const { slug } = edge.node.fields;
           return (
-            <div key={slug} style={{ marginBottom: "1rem" }}>
+            <SpaceBottomContainer key={slug}>
               <Link to={slug}>{frontmatter.title}</Link>
-            </div>
+            </SpaceBottomContainer>
           );
         })}
-
-        <div>
-          <Link to='/tags'>Browse by Tags</Link>
-        </div>
-      </div>
+      </Container>
     </div>
   );
 };

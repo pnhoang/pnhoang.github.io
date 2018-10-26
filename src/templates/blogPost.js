@@ -1,24 +1,31 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
+import styled from "styled-components";
+import { SpaceBottomContainer } from "../styles";
+
+const Wrapper = styled.div`
+  margin: auto;
+  width: 50%;
+`
 
 const Template = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const title = data.markdownRemark.frontmatter.title;
   const html = data.markdownRemark.html;
   return (
-    <div>
-      <h1 style={{ fontFamily: "avenir" }}>{title}</h1>
+    <Wrapper>
+      <h1>{title}</h1>
 
-      <div className="blogpost" dangerouslySetInnerHTML={{ __html: html }} />
+      <div dangerouslySetInnerHTML={{ __html: html }} />
 
-      <div style={{ marginBottom: "1rem", fontFamily: "avenir" }}>
+      <SpaceBottomContainer>
         {next && <Link to={next.fields.slug}>Next</Link>}
-      </div>
+      </SpaceBottomContainer>
 
-      <div style={{ fontFamily: "avenir" }}>
+      <div>
         {prev && <Link to={prev.fields.slug}>Prev</Link>}
       </div>
-    </div>
+    </Wrapper>
   );
 };
 
