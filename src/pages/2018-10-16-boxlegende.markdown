@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Box-Legende gestorben"
 date:   2018-10-16 23:00
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 [Box-Legende gestorben](https://www.nachrichtenleicht.de/box-legende-gestorben.2039.de.html?dram:article_id=430274)

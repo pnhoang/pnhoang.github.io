@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Einer Text"
 date:   2018-10-17 23:00
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 Heute geht es mir wieder besser.

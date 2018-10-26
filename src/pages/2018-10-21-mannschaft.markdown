@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Deustchland verliert"
 date:   2018-10-21 23:00
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 [Deutschland verliert](https://www.nachrichtenleicht.de/deutschland-verliert.2039.de.html?dram:article_id=430852)

@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Sprachbegabt"
 date:   2018-10-05 23:30
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 1. **beurteilen**: (v) judge

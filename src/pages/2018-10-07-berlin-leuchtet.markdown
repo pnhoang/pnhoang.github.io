@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Berlin Leuchtet 2018"
 date:   2018-10-07 20:55
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 [Berlin leuchtet 2018 – Licht aktiviert](http://berlinleuchtet.com/presse/)

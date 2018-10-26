@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Jahresabschluss"
 date:   2018-10-15 22:00
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 1. **Die Erläuterung**: (f) explanation

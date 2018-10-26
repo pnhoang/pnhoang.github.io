@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Kitas"
 date:   2018-10-09 20:00
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 [Mehr Geld für Kitas](https://www.nachrichtenleicht.de/mehr-geld-fuer-kitas.2042.de.html?dram:article_id=428573)

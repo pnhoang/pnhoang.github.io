@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Fahrverbote - und jetzt?"
 date:   2018-10-10 23:00
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 [Fahrverbote - und jetzt? Die wichstigsten Fragen zum Diesel-Urteil auf einen Blick](https://www.berliner-zeitung.de/berlin/verkehr/fahrverbote---und-jetzt--die-wichtigsten-fragen-zum-diesel-urteil-auf-einen-blick-31422222)

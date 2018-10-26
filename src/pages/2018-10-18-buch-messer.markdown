@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title:  "Buch-Messe in Frankfurt"
 date:   2018-10-18 23:00
-categories: deutsche
+tags: [ 'deutsche' ]
 ---
 
 [Buch-Messe in Frankfurt](https://www.nachrichtenleicht.de/buch-messe-in-frankfurt.2045.de.html?dram:article_id=430302)
