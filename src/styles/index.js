@@ -6,7 +6,7 @@ export const Container = styled.div`
   align-items: center;
 `;
 
-export const SpaceWrapper = styled.div`
+export const ContentWrapper = styled.div`
     margin-bottom: 1rem;
 `;
 

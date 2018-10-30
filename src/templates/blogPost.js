@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql, Link } from "gatsby";
-import { BodyContainer, SpaceWrapper } from "../styles";
+import { BodyContainer, ContentWrapper } from "../styles";
 
 const Template = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
@@ -13,9 +13,9 @@ const Template = ({ data, pageContext }) => {
 
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
-      <SpaceWrapper>
+      <ContentWrapper>
         {next && <Link to={next.fields.slug}>Next</Link>}
-      </SpaceWrapper>
+      </ContentWrapper>
 
       <div>
         {prev && <Link to={prev.fields.slug}>Prev</Link>}
