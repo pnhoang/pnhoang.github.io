@@ -1,5 +1,4 @@
 ---
-
 title:  "Einer Text"
 date:   2018-10-17 23:00
 tags: [ 'deutsche' ]

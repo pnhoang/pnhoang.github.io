@@ -1,5 +1,4 @@
 ---
-
 title:  "Box-Legende gestorben"
 date:   2018-10-16 23:00
 tags: [ 'deutsche' ]
