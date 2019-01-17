@@ -11,6 +11,6 @@ export const ContentWrapper = styled.div`
 `;
 
 export const BodyContainer = styled.div`
-  margin: auto;
+  margin: 24px auto;
   width: 50%;
 `;
